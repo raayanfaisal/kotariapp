@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "73173708781",
+    "project_id": "joali-booking-app",
+    "storage_bucket": "joali-booking-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73173708781:android:a20bd6290ac238996201e4",
+        "android_client_info": {
+          "package_name": "com.joali.joali_booking_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73173708781-973i55fcrgif3nkjf7livptb36ro1af1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWagf-Obg1Q_p_H6e2IjGu4lvNb4DYZZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73173708781-973i55fcrgif3nkjf7livptb36ro1af1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
